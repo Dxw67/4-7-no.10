@@ -6,6 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+temp = float(input())
+
 if temp > 37.5:
     print("Fever")
 else:
