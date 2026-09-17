@@ -6,6 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+price = float(input())
+is_member = int(input())
+
 discrount = price * 10/100
 net_price = price - discrount
 
